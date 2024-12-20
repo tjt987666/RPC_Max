@@ -1,0 +1,4 @@
+json=com.zking.xiongda.serializer.JsonSerializer
+kryo=com.zking.xiongda.serializer.KryoSerializer
+jdk=com.zking.xiongda.serializer.JdkSerializer
+hessian=com.zking.xiongda.serializer.HessianSerializer

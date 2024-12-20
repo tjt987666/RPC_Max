@@ -1,0 +1,2 @@
+json=com.zking.xiongda.serializer.JsonSerializer
+kryo=com.zking.xiongda.serializer.KryoSerializer

@@ -1,0 +1,2 @@
+jdk=com.zking.xiongda.serializer.JdkSerializer
+hessian=com.zking.xiongda.serializer.HessianSerializer
